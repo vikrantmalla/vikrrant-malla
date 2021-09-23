@@ -1,0 +1,488 @@
+.logoname {
+    display: flex;
+    font-family: 'Livvic Bold', 'Livvic Regular', 'Livvic', sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    font-size: 18px;
+    text-align: center;
+}
+
+.headlinedec {
+    font-family: 'Livvic SemiBold', 'Livvic Regular', 'Livvic', sans-serif;
+    font-weight: 600;
+    font-style: normal;
+    font-size: 16px;
+    text-align: left;
+}
+
+.heading {
+    display: flex;
+    font-size: 30px;
+    text-align: center;
+    display: flex;
+    font-family: 'Livvic Bold', 'Livvic Regular', 'Livvic', sans-serif;
+    font-weight: 700;
+    font-style: normal;
+}
+
+.menuheading {
+    display: flex;
+    font-size: 12px;
+    text-align: center;
+    font-family: 'Livvic SemiBold', 'Livvic Regular', 'Livvic', sans-serif;
+    font-weight: 600;
+    font-style: normal;
+}
+
+.menusubheading {
+    display: flex;
+    font-family: 'Livvic SemiBold', 'Livvic Regular', 'Livvic', sans-serif;
+    font-weight: 600;
+    font-style: normal;
+    font-size: 11px;
+    text-align: left;
+}
+
+.menusubbheading {
+    font-family: 'Livvic', sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 8px;
+    text-align: left;
+}
+
+.fontlig {
+    display: flex;
+    font-family: 'Livvic Light', 'Livvic Regular', 'Livvic', sans-serif;
+    font-weight: 300;
+    font-style: normal;
+    font-size: 18px;
+    color: #4B4B4B;
+}
+
+.fontligtype {
+    display: flex;
+    font-family: 'Livvic Light', 'Livvic Regular', 'Livvic', sans-serif;
+    font-weight: 300;
+    font-style: normal;
+    font-size: 14px;
+    color: #4B4B4B;
+}
+
+.fontreg {
+    display: flex;
+    font-family: 'Livvic', sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 18px;
+    color: #4B4B4B;
+}
+
+.fontregtype {
+    display: flex;
+    font-family: 'Livvic', sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    display: flex;
+    font-size: 14px;
+    color: #4B4B4B;
+}
+
+.fontmed {
+    display: flex;
+    font-family: 'Livvic Medium', 'Livvic Regular', 'Livvic', sans-serif;
+    font-weight: 500;
+    font-style: normal;
+    font-size: 18px;
+    color: #4B4B4B;
+}
+
+.fontmedtype {
+    display: flex;
+    font-family: 'Livvic Medium', 'Livvic Regular', 'Livvic', sans-serif;
+    font-weight: 500;
+    font-style: normal;
+    font-size: 14px;
+    color: #4B4B4B;
+}
+
+.fontsemi {
+    display: flex;
+    font-family: 'Livvic SemiBold', 'Livvic Regular', 'Livvic', sans-serif;
+    font-weight: 600;
+    font-style: normal;
+    font-size: 18px;
+    color: #4B4B4B;
+}
+
+.fontsemitype {
+    display: flex;
+    font-family: 'Livvic SemiBold', 'Livvic Regular', 'Livvic', sans-serif;
+    font-weight: 600;
+    font-style: normal;
+    font-size: 14px;
+    color: #4B4B4B;
+}
+
+.fontboldd {
+    display: flex;
+    font-family: 'Livvic Bold', 'Livvic Regular', 'Livvic', sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    font-size: 18px;
+    color: #4B4B4B;
+}
+
+.fontboldtype {
+    display: flex;
+    font-family: 'Livvic Bold', 'Livvic Regular', 'Livvic', sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    font-size: 14px;
+    color: #4B4B4B;
+}
+
+.walkthroughheading {
+    display: flex;
+    font-family: 'Livvic SemiBold', 'Livvic Regular', 'Livvic', sans-serif;
+    font-weight: 600;
+    font-style: normal;
+    font-size: 16px;
+    color: #FFFF99;
+    text-align: center;
+}
+
+.walkthroughpara {
+    display: flex;
+    font-family: 'Livvic', sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    color: #FFFF99;
+    font-size: 13px;
+    text-align: center;
+}
+
+.button {
+    display: flex;
+    font-family: 'Livvic Medium', 'Livvic Regular', 'Livvic', sans-serif;
+    font-weight: 500;
+    font-style: normal;
+    color: #000000;
+    font-size: 13px;
+    text-align: center;
+}
+
+.signtext {
+    display: flex;
+    font-family: 'Livvic Medium', 'Livvic Regular', 'Livvic', sans-serif;
+    font-weight: 500;
+    font-style: normal;
+    font-size: 10px;
+    color: #FFFFFF;
+}
+
+.keyboard {
+    font-size: 13px;
+    text-align: center;
+}
+
+.boxplaceholder {
+    font-size: 13px;
+    display: flex;
+    font-family: 'Livvic', sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    color: #7F7F7F;
+    text-align: left;
+}
+
+.bold {
+    display: flex;
+    font-family: 'Livvic Bold', 'Livvic Regular', 'Livvic', sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    font-size: 18px;
+    color: #FFFFFF;
+    text-align: center;
+}
+
+.light {
+    display: flex;
+    font-family: 'Livvic Light', 'Livvic Regular', 'Livvic', sans-serif;
+    font-weight: 300;
+    font-style: normal;
+    font-size: 10px;
+    color: #FFFFFF;
+    text-align: center;
+}
+
+.overviewheading {
+    font-size: 30px;
+    font-family: 'Livvic Medium', 'Livvic Regular', 'Livvic', sans-serif;
+    font-weight: 500;
+    font-style: normal;
+    font-size: 20px;
+    text-align: left;
+}
+
+.overviewdetail {
+    font-size: 18px;
+    font-family: 'Livvic', sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    text-align: left;
+}
+
+.font {
+    font-size: 36px;
+    display: flex;
+    font-family: 'Livvic Medium', 'Livvic Regular', 'Livvic', sans-serif;
+    font-weight: 500;
+    font-style: normal;
+    color: #4B4B4B;
+}
+
+.fontpara {
+    font-size: 20px;
+    display: flex;
+    opacity: 0.43;
+    font-family: 'Livvic Medium', 'Livvic Regular', 'Livvic', sans-serif;
+    font-weight: 500;
+    font-style: normal;
+    text-align: center;
+}
+
+.name {
+    display: flex;
+    font-family: 'Livvic', sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 14px;
+    color: #FFFFFF;
+    text-align: center;
+}
+
+.profile {
+    display: flex;
+    font-family: 'Livvic Light', 'Livvic Regular', 'Livvic', sans-serif;
+    font-weight: 300;
+    font-style: normal;
+    font-size: 6px;
+    color: #FFFFFF;
+    text-align: center;
+}
+
+.option {
+    display: flex;
+    font-family: 'Livvic', sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 12px;
+    color: #FFFFFF;
+    text-align: left;
+}
+
+.menupara {
+    display: flex;
+    font-family: 'Livvic Medium', 'Livvic Regular', 'Livvic', sans-serif;
+    font-weight: 500;
+    font-style: normal;
+    font-size: 10px;
+    color: #000000;
+    text-align: left;
+}
+
+.cartheading {
+    display: flex;
+    font-family: 'Livvic SemiBold', 'Livvic Regular', 'Livvic', sans-serif;
+    font-weight: 600;
+    font-style: normal;
+    font-size: 14px;
+    color: #000000;
+    text-align: center;
+}
+
+.cartlighttext {
+    display: flex;
+    font-family: 'Livvic Light', 'Livvic Regular', 'Livvic', sans-serif;
+    font-weight: 300;
+    font-style: normal;
+    font-size: 10px;
+    color: #000000;
+    text-align: left;
+}
+
+.cartlighttext1 {
+    display: flex;
+    font-family: 'Livvic Light', 'Livvic Regular', 'Livvic', sans-serif;
+    font-weight: 300;
+    font-style: normal;
+    font-size: 8px;
+    color: #000000;
+    text-align: left;
+}
+
+.cartregular {
+    display: flex;
+    font-family: 'Livvic', sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 10px;
+}
+
+.cartregular1 {
+    display: flex;
+    font-family: 'Livvic', sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 8px;
+}
+
+.cartmediumtext {
+    display: flex;
+    font-family: 'Livvic Medium', 'Livvic Regular', 'Livvic', sans-serif;
+    font-weight: 500;
+    font-style: normal;
+    font-size: 10px;
+    color: #000000;
+}
+
+.cartmediumtext1 {
+    display: flex;
+    font-family: 'Livvic Medium', 'Livvic Regular', 'Livvic', sans-serif;
+    font-weight: 500;
+    font-style: normal;
+    font-size: 12px;
+    color: #000000;
+}
+
+@media screen and (max-width: 768px) {
+    .logoname {
+        font-size: 14px;
+    }
+    .headlinedec {
+        font-size: 14px;
+    }
+    .heading {
+        font-size: 25px;
+    }
+    .fontlig {
+        font-size: 14px;
+    }
+    .fontligtype {
+        font-size: 13px;
+    }
+    .fontreg {
+        font-size: 14px;
+    }
+    .fontregtype {
+        font-size: 13px;
+    }
+    .fontmed {
+        font-size: 14px;
+    }
+    .fontmedtype {
+        font-size: 13px;
+    }
+    .fontsemi {
+        font-size: 14px;
+    }
+    .fontsemitype {
+        font-size: 13px;
+    }
+    .fontboldd {
+        font-size: 14px;
+    }
+    .fontboldtype {
+        font-size: 13px;
+    }
+    .menuheading {
+        font-size: 9px;
+    }
+    .menusubheading {
+        font-size: 10px;
+    }
+    .menusubbheading {
+        font-size: 6px;
+    }
+    .walkthroughheading {
+        font-size: 13px;
+    }
+    .walkthroughpara {
+        font-size: 10px;
+    }
+    .button {
+        font-size: 10px;
+        text-align: center;
+    }
+    .keyboard {
+        font-size: 10px;
+        text-align: center;
+    }
+    .boxplaceholder {
+        font-size: 10px;
+    }
+    .bold {
+        font-size: 15px;
+    }
+    .light {
+        font-size: 8px;
+    }
+    .overviewheading {
+        font-size: 16px;
+    }
+    .overviewdetail {
+        font-size: 14px;
+    }
+    .font {
+        font-size: 20px;
+    }
+    .fontpara {
+        font-size: 14px;
+    }
+    .fontsize {
+        font-size: 13px;
+    }
+    .fontaa {
+        font-size: 14px;
+    }
+    .signtext {
+        font-size: 8px;
+    }
+    .name {
+        font-size: 10px;
+    }
+    .profile {
+        font-size: 5px;
+    }
+    .option {
+        font-size: 9px;
+    }
+    .menupara {
+        font-size: 7px;
+    }
+    .cartheading {
+        font-size: 10px;
+    }
+    .cartlighttext {
+        font-size: 7px;
+    }
+    .cartlighttext1 {
+        font-size: 6px;
+    }
+    .cartmediumtext {
+        font-size: 8px;
+    }
+    .cartmediumtext1 {
+        font-size: 7px;
+    }
+    .cartno {
+        font-size: 8px;
+    }
+    .cartregular {
+        font-size: 8px;
+    }
+    .cartregular1 {
+        font-size: 6px;
+    }
+}

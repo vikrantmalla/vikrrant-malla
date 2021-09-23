@@ -1,0 +1,21 @@
+{
+    "name": "vikrant-malla",
+    "version": "1.0.0",
+    "description": "Tt my UI/UX portfolio website build with Axure RP.",
+    "main": "index.js",
+    "scripts": {
+        "dev": "parcel src/index.html  --open",
+        "build": "parcel build src/index.html --no-content-hash --no-minify --no-source-maps --public-url ./"
+    },
+    "keywords": [
+        "vikrant malla"
+    ],
+    "author": "vikrant malla",
+    "license": "ISC",
+    "devDependencies": {
+        "parcel-bundler": "^1.12.5"
+    },
+    "dependencies": {
+        "gsap": "^3.7.1"
+    }
+}

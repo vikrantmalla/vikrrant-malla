@@ -1,0 +1,558 @@
+.signbutton {
+    display: flex;
+    font-family: 'Josefin Sans Bold Roman', 'Josefin Sans Regular Roman', 'Josefin Sans', sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    font-size: 14px;
+    color: #764BA2;
+    text-align: center;
+}
+
+.heading {
+    display: flex;
+    font-family: 'Montserrat Bold', 'Montserrat Regular', 'Montserrat', sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    font-size: 28px;
+    text-align: center;
+}
+
+.overviewdesc {
+    display: flex;
+    font-family: 'Montserrat Medium', 'Montserrat Regular', 'Montserrat', sans-serif;
+    font-weight: 500;
+    font-style: normal;
+    font-size: 16px;
+    text-align: left;
+}
+
+.overviewheading {
+    font-size: 16px;
+    display: flex;
+    font-family: 'Montserrat Medium', 'Montserrat Regular', 'Montserrat', sans-serif;
+    font-weight: 500;
+    font-style: normal;
+    font-size: 28px;
+    text-align: left;
+}
+
+.subheading {
+    display: flex;
+    font-family: 'Josefin Sans SemiBold Roman', 'Josefin Sans Regular Roman', 'Josefin Sans', sans-serif;
+    font-weight: 600;
+    font-style: normal;
+    font-size: 36px;
+    color: #4B4B4B;
+    text-align: center;
+}
+
+.bigfont {
+    display: flex;
+    font-family: 'Josefin Sans Bold Roman', 'Josefin Sans Regular Roman', 'Josefin Sans', sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    font-size: 150px;
+}
+
+.fontlight {
+    display: flex;
+    font-family: 'Josefin Sans Light Roman', 'Josefin Sans Regular Roman', 'Josefin Sans', sans-serif;
+    font-weight: 300;
+    font-style: normal;
+    font-size: 25px;
+    color: #4B4B4B;
+}
+
+.wireframetext {
+    display: flex;
+    font-family: 'Josefin Sans Light Roman', 'Josefin Sans Regular Roman', 'Josefin Sans', sans-serif;
+    font-weight: 300;
+    font-style: normal;
+    font-size: 12px;
+    text-align: center;
+}
+
+.logotext {
+    display: flex;
+    font-family: 'Montserrat Medium', 'Montserrat Regular', 'Montserrat', sans-serif;
+    font-weight: 500;
+    font-style: normal;
+    font-size: 10px;
+    color: #1BE44C;
+    text-align: center;
+}
+
+.fontname {
+    display: flex;
+    font-family: 'Josefin Sans SemiBold Roman', 'Josefin Sans Regular Roman', 'Josefin Sans', sans-serif;
+    font-weight: 600;
+    font-style: normal;
+    font-size: 28px;
+    color: #4B4B4B;
+}
+
+.socialmedia {
+    display: flex;
+    font-family: 'Josefin Sans  Roman', 'Josefin Sans Regular Roman', 'Josefin Sans', sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 8px;
+    color: #FFFFFF;
+    text-align: center;
+}
+
+.semiboldtext {
+    display: flex;
+    font-family: 'Josefin Sans SemiBold Roman', 'Josefin Sans Regular Roman', 'Josefin Sans', sans-serif;
+    font-weight: 600;
+    font-style: normal;
+    color: #764BA2;
+    text-align: left;
+}
+
+.fontlight {
+    font-family: 'Josefin Sans Light Roman', 'Josefin Sans Regular Roman', 'Josefin Sans', sans-serif;
+    font-weight: 300;
+    font-style: normal;
+    font-size: 25px;
+    color: #4B4B4B;
+}
+
+.fontregular {
+    font-family: 'Josefin Sans  Roman', 'Josefin Sans Regular Roman', 'Josefin Sans', sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 25px;
+    color: #4B4B4B;
+}
+
+.fontsemibold {
+    font-family: 'Josefin Sans SemiBold Roman', 'Josefin Sans Regular Roman', 'Josefin Sans', sans-serif;
+    font-weight: 600;
+    font-style: normal;
+    font-size: 25px;
+    color: #4B4B4B;
+}
+
+.fontbold {
+    font-family: 'Josefin Sans Bold Roman', 'Josefin Sans Regular Roman', 'Josefin Sans', sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    font-size: 25px;
+    color: #4B4B4B;
+}
+
+.lighttext1 {
+    display: flex;
+    font-family: 'Josefin Sans Light Roman', 'Josefin Sans Regular Roman', 'Josefin Sans', sans-serif;
+    font-weight: 300;
+    font-style: normal;
+    font-size: 10px;
+    color: #764BA2;
+    text-align: left;
+}
+
+.lighttext2 {
+    display: flex;
+    font-family: 'Josefin Sans  Roman', 'Josefin Sans Regular Roman', 'Josefin Sans', sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 8px;
+    text-align: center;
+}
+
+.placeholder {
+    display: flex;
+    font-family: 'Josefin Sans  Roman', 'Josefin Sans Regular Roman', 'Josefin Sans', sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    color: #764BA2;
+    font-size: 13px;
+}
+
+.username00 {
+    display: flex;
+    font-family: 'Josefin Sans  Roman', 'Josefin Sans Regular Roman', 'Josefin Sans', sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 10px;
+    color: #FFFFFF;
+    text-align: center;
+}
+
+.edit {
+    display: flex;
+    font-family: 'Josefin Sans Light Roman', 'Josefin Sans Regular Roman', 'Josefin Sans', sans-serif;
+    font-weight: 300;
+    font-style: normal;
+    font-size: 8px;
+    color: #FFFFFF;
+    text-align: center;
+}
+
+.follno {
+    display: flex;
+    font-family: 'Josefin Sans Bold Roman', 'Josefin Sans Regular Roman', 'Josefin Sans', sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    font-size: 12px;
+    color: #FFFFFF;
+    text-align: center;
+}
+
+.squareboxheading {
+    display: flex;
+    font-family: 'Josefin Sans  Roman', 'Josefin Sans Regular Roman', 'Josefin Sans', sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 8px;
+    color: #764BA2;
+    text-align: center;
+}
+
+.follbutton {
+    display: flex;
+    font-family: 'Josefin Sans SemiBold Roman', 'Josefin Sans Regular Roman', 'Josefin Sans', sans-serif;
+    font-weight: 600;
+    font-style: normal;
+    color: #764BA2;
+    font-size: 13px;
+    text-align: center;
+}
+
+.name {
+    display: flex;
+    font-family: 'Josefin Sans SemiBold Roman', 'Josefin Sans Regular Roman', 'Josefin Sans', sans-serif;
+    font-weight: 600;
+    font-style: normal;
+    color: #764BA2;
+    font-size: 13px;
+    text-align: center;
+}
+
+.no {
+    display: flex;
+    font-family: 'Josefin Sans SemiBold Roman', 'Josefin Sans Regular Roman', 'Josefin Sans', sans-serif;
+    font-weight: 600;
+    font-style: normal;
+    font-size: 36px;
+}
+
+.screenname {
+    display: flex;
+    font-family: 'Josefin Sans SemiBold Roman', 'Josefin Sans Regular Roman', 'Josefin Sans', sans-serif;
+    font-weight: 600;
+    font-style: normal;
+    font-size: 18px;
+}
+
+.screendesc {
+    display: flex;
+    font-family: 'Josefin Sans Light Roman', 'Josefin Sans Regular Roman', 'Josefin Sans', sans-serif;
+    font-weight: 300;
+    font-style: normal;
+    font-size: 14px;
+    text-align: left;
+}
+
+.notitab {
+    display: flex;
+    font-family: 'Josefin Sans  Roman', 'Josefin Sans', sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 10px;
+    color: #764BA2;
+    text-align: center;
+}
+
+.username {
+    display: flex;
+    font-family: 'Josefin Sans  Roman', 'Josefin Sans', sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    color: #FFFFFF;
+    font-size: 13px;
+    color: #764BA2;
+    text-align: center;
+}
+
+.screentitle {
+    display: flex;
+    font-family: 'Josefin Sans SemiBold Roman', 'Josefin Sans Regular Roman', 'Josefin Sans', sans-serif;
+    font-weight: 600;
+    font-style: normal;
+    color: #764BA2;
+    font-size: 13px;
+}
+
+.lighttext {
+    display: flex;
+    font-family: 'Josefin Sans Light Roman', 'Josefin Sans Regular Roman', 'Josefin Sans', sans-serif;
+    font-weight: 300;
+    font-style: normal;
+    font-size: 10px;
+    color: #764BA2;
+    text-align: left;
+}
+
+.storiesname {
+    display: flex;
+    font-family: 'Josefin Sans  Roman', 'Josefin Sans Regular Roman', 'Josefin Sans', sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 10px;
+    color: #764BA2;
+    text-align: center;
+}
+
+.notimessage {
+    display: flex;
+    font-family: 'Josefin Sans  Roman', 'Josefin Sans Regular Roman', 'Josefin Sans', sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 8px;
+    color: #764BA2;
+}
+
+.notitime {
+    display: flex;
+    font-family: 'Josefin Sans  Roman', 'Josefin Sans Regular Roman', 'Josefin Sans', sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 5px;
+    color: #764BA2;
+}
+
+.notifollow {
+    display: flex;
+    font-family: 'Josefin Sans SemiBold Roman', 'Josefin Sans Regular Roman', 'Josefin Sans', sans-serif;
+    font-weight: 600;
+    font-style: normal;
+    font-size: 8px;
+    color: #764BA2;
+    text-align: center;
+}
+
+.chatmessage {
+    display: flex;
+    font-family: 'Josefin Sans  Roman', 'Josefin Sans Regular Roman', 'Josefin Sans', sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 10px;
+    color: #764BA2;
+    text-align: left;
+}
+
+.unread {
+    display: flex;
+    font-family: 'Josefin Sans  Roman', 'Josefin Sans', sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 5px;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+.chattime {
+    display: flex;
+    font-family: 'Josefin Sans  Roman', 'Josefin Sans Regular Roman', 'Josefin Sans', sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 6px;
+    color: #764BA2;
+}
+
+.messagetext {
+    display: flex;
+    font-family: 'Josefin Sans  Roman', 'Josefin Sans Regular Roman', 'Josefin Sans', sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 10px;
+    color: #764BA2;
+    text-align: left;
+}
+
+.messagetime {
+    display: flex;
+    font-family: 'Josefin Sans  Roman', 'Josefin Sans Regular Roman', 'Josefin Sans', sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 6px;
+    color: #C280FF;
+}
+
+.settingboldtext {
+    display: flex;
+    font-family: 'Josefin Sans Bold Roman', 'Josefin Sans Regular Roman', 'Josefin Sans', sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    font-size: 13px;
+    color: #764BA2;
+    text-align: left;
+}
+
+.settingregulartext {
+    display: flex;
+    font-family: 'Josefin Sans  Roman', 'Josefin Sans', sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 11px;
+    color: #764BA2;
+    text-align: left;
+}
+
+@media screen and (max-width: 768px) {
+    .project {
+        font-size: 18px;
+    }
+    .subproject {
+        font-size: 14px;
+    }
+    .heading {
+        font-size: 20px;
+    }
+    .subheading {
+        font-size: 25px;
+    }
+    .overviewdesc {
+        font-size: 13px;
+    }
+    .overviewheading {
+        font-size: 16px;
+    }
+    .bigfont {
+        font-size: 100px;
+    }
+    .fontname {
+        font-size: 18px;
+    }
+    .fontlight {
+        font-size: 14px;
+    }
+    .fontregular {
+        font-size: 14px;
+    }
+    .fontsemibold {
+        font-size: 14px;
+    }
+    .fontbold {
+        font-size: 14px;
+    }
+    .wireframetext {
+        font-size: 8px;
+    }
+    .logotext {
+        font-size: 8px;
+    }
+    .signbutton {
+        font-size: 12px;
+    }
+    .socialmedia {
+        font-size: 6px;
+    }
+    .semiboldtext {
+        font-size: 10px;
+    }
+    .lighttext1 {
+        font-size: 8px;
+    }
+    .lighttext2 {
+        font-size: 6px;
+    }
+    .placeholder {
+        font-size: 10px;
+    }
+    .follno {
+        font-size: 8px;
+    }
+    .username00 {
+        font-size: 8px;
+    }
+    .edit {
+        font-size: 6px;
+    }
+    .follbutton {
+        font-size: 10px;
+    }
+    .name {
+        font-size: 10px;
+    }
+    .no {
+        font-size: 28px;
+    }
+    .screenname {
+        font-size: 18px;
+    }
+    .screendesc {
+        font-size: 12px;
+    }
+    .notitab {
+        font-size: 8px;
+    }
+    .username {
+        font-size: 10px;
+    }
+    .screentitle {
+        font-size: 10px;
+    }
+    .squareboxheading {
+        font-size: 6px;
+    }
+    .lighttext {
+        font-size: 6px;
+    }
+    .storiesname {
+        font-size: 7px;
+    }
+    .storiesloc {
+        font-size: 4px;
+    }
+    .more {
+        font-size: 9px;
+    }
+    .notimessage {
+        font-size: 6px;
+    }
+    .notitime {
+        font-size: 5px;
+    }
+    .notifollow {
+        font-size: 6px;
+    }
+    .username {
+        font-size: 10px;
+    }
+    .chatmessage {
+        font-size: 8px;
+    }
+    .unread {
+        font-size: 3px;
+    }
+    .chattime {
+        font-size: 5px;
+    }
+    .messagesendname {
+        font-size: 10px;
+    }
+    .messagestatus {
+        font-size: 6px;
+    }
+    .messageday {
+        font-size: 8px;
+    }
+    .messagetext {
+        font-size: 8px;
+    }
+    .messagetime {
+        font-size: 4px;
+    }
+    .messagetyping {
+        font-size: 5px;
+    }
+    .settingboldtext {
+        font-size: 10px;
+    }
+    .settingregulartext {
+        font-size: 8px;
+    }
+}

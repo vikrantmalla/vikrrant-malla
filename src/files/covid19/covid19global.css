@@ -1,0 +1,322 @@
+.link {
+    display: flex;
+    font-family: 'Montserrat Bold', 'Montserrat Regular', 'Montserrat', sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    font-size: 20px;
+    text-align: center;
+}
+
+.search {
+    display: flex;
+    font-family: 'Montserrat Bold', 'Montserrat Regular', 'Montserrat', sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    color: rgba(51, 51, 51, 0.996078431372549);
+    font-size: 13px;
+    text-align: center;
+}
+
+.headdetails {
+    display: flex;
+    font-family: 'Montserrat Bold', 'Montserrat Regular', 'Montserrat', sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    font-size: 20px;
+    text-align: center;
+}
+
+.appheader {
+    display: flex;
+    font-family: 'Montserrat Bold', 'Montserrat Regular', 'Montserrat', sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    font-size: 8px;
+    color: #FFFFFF;
+    text-align: center;
+}
+
+.details {
+    display: flex;
+    font-family: 'Montserrat Bold', 'Montserrat Regular', 'Montserrat', sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    font-size: 10px;
+    text-align: center;
+}
+
+.subheadline {
+    display: flex;
+    font-family: 'Montserrat Bold', 'Montserrat Regular', 'Montserrat', sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    font-size: 28px;
+    color: #A5A5DC;
+    text-align: center;
+}
+
+.headline {
+    display: flex;
+    font-family: 'Montserrat ExtraBold', 'Montserrat Regular', 'Montserrat', sans-serif;
+    font-weight: 800;
+    font-style: normal;
+    font-size: 180px;
+    color: #D2D2EE;
+    text-align: center;
+}
+
+.font {
+    display: flex;
+    font-family: 'Montserrat Medium', 'Montserrat Regular', 'Montserrat', sans-serif;
+    font-weight: 500;
+    font-style: normal;
+    font-size: 36px;
+    text-align: center;
+}
+
+.fontreg {
+    display: flex;
+    font-family: 'Montserrat Medium', 'Montserrat Regular', 'Montserrat', sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 18px;
+    color: #4B4B4B;
+    text-align: center;
+}
+
+.fontregtype {
+    display: flex;
+    font-family: 'Montserrat Medium', 'Montserrat Regular', 'Montserrat', sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 14px;
+    color: #4B4B4B;
+    text-align: center;
+}
+
+.fontmed {
+    display: flex;
+    font-family: 'Montserrat Medium', 'Montserrat Regular', 'Montserrat', sans-serif;
+    font-weight: 500;
+    font-style: normal;
+    font-size: 18px;
+    color: #4B4B4B;
+    text-align: center;
+}
+
+.fontmedtype {
+    display: flex;
+    font-family: 'Montserrat Medium', 'Montserrat Regular', 'Montserrat', sans-serif;
+    font-weight: 500;
+    font-style: normal;
+    font-size: 14px;
+    color: #4B4B4B;
+    text-align: center;
+}
+
+.fontbold {
+    display: flex;
+    font-family: 'Montserrat Bold', 'Montserrat Regular', 'Montserrat', sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    font-size: 18px;
+    color: #4B4B4B;
+    text-align: center;
+}
+
+.fontboldtype {
+    display: flex;
+    font-family: 'Montserrat Bold', 'Montserrat Regular', 'Montserrat', sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    font-size: 14px;
+    color: #4B4B4B;
+    text-align: center;
+}
+
+.fontexbold {
+    display: flex;
+    font-family: 'Montserrat ExtraBold', 'Montserrat Regular', 'Montserrat', sans-serif;
+    font-weight: 800;
+    font-style: normal;
+    font-size: 18px;
+    color: #4B4B4B;
+    text-align: center;
+}
+
+.fontexboldtype {
+    display: flex;
+    font-family: 'Montserrat ExtraBold', 'Montserrat Regular', 'Montserrat', sans-serif;
+    font-weight: 800;
+    font-style: normal;
+    font-size: 14px;
+    color: #4B4B4B;
+    text-align: center;
+}
+
+.fontpara {
+    display: flex;
+    opacity: 0.43;
+    font-family: 'Montserrat Medium', 'Montserrat Regular', 'Montserrat', sans-serif;
+    font-weight: 500;
+    font-style: normal;
+    font-size: 20px;
+    text-align: center;
+}
+
+.fontabc {
+    display: flex;
+    opacity: 0.43;
+    font-family: 'Montserrat Medium', 'Montserrat Regular', 'Montserrat', sans-serif;
+    font-weight: 500;
+    font-style: normal;
+    font-size: 36px;
+    text-align: center;
+}
+
+.textt {
+    display: flex;
+    font-family: 'Montserrat ExtraBold', 'Montserrat Regular', 'Montserrat', sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 10px;
+    text-align: center;
+}
+
+.subdetails {
+    display: flex;
+    font-family: 'Montserrat Regular', 'Montserrat', sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    text-align: left;
+}
+
+.onboardingdesc {
+    display: flex;
+    font-family: 'Montserrat Regular', 'Montserrat', sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 14px;
+    color: #FFFFFF;
+    text-align: center;
+}
+
+.onboardingbutton {
+    display: flex;
+    font-family: 'Montserrat Bold', 'Montserrat Regular', 'Montserrat', sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    font-size: 10px;
+    color: #FFFFFF;
+    text-align: center;
+}
+
+.appheader {
+    display: flex;
+    font-family: 'Montserrat Bold', 'Montserrat Regular', 'Montserrat', sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    font-size: 8px;
+    color: #FFFFFF;
+}
+
+.chartdetails {
+    display: flex;
+    font-family: 'Montserrat Medium', 'Montserrat Regular', 'Montserrat', sans-serif;
+    font-weight: 500;
+    font-style: normal;
+    font-size: 13px;
+    color: #FFFFFF;
+    text-align: center;
+}
+
+.countryname {
+    display: flex;
+    font-family: 'Montserrat SemiBold', 'Montserrat Regular', 'Montserrat', sans-serif;
+    font-weight: 600;
+    font-style: normal;
+    font-size: 10px;
+    color: #FFFFFF;
+    text-align: center;
+}
+
+.countrydetails {
+    display: flex;
+    font-family: 'Montserrat Medium', 'Montserrat Regular', 'Montserrat', sans-serif;
+    font-weight: 500;
+    font-style: normal;
+    font-size: 8px;
+    color: #D9001B;
+    text-align: center;
+}
+
+.downtext a {
+    display: flex;
+    font-family: 'Montserrat SemiBold', 'Montserrat Regular', 'Montserrat', sans-serif;
+    font-weight: 600;
+    font-style: normal;
+    font-size: 28px;
+    color: #FFFFFF;
+    text-align: center;
+    text-decoration: none;
+}
+
+@media screen and (max-width: 768px) {
+    .link {
+        font-size: 10px;
+    }
+    .search {
+        font-size: 8px;
+    }
+    .headdetails {
+        font-size: 10px;
+    }
+    .appheader {
+        font-size: 6px;
+    }
+    .details {
+        font-size: 6px;
+    }
+    .subheadline {
+        font-size: 18px;
+    }
+    .headline {
+        font-size: 100px;
+    }
+    .font {
+        font-size: 28px;
+    }
+    .fontpara {
+        font-size: 18px;
+    }
+    .fontabc {
+        font-size: 28px;
+    }
+    .textt {
+        font-size: 8px;
+    }
+    .subdetails {
+        font-size: 10px;
+    }
+    .onboardingdesc {
+        font-size: 7px;
+    }
+    .onboardingbutton {
+        font-size: 6px;
+    }
+    .appheader {
+        font-size: 7px;
+    }
+    .chartdetails {
+        font-size: 6px;
+    }
+    .countryname {
+        font-size: 6px;
+    }
+    .countrydetails {
+        font-size: 4px;
+    }
+    .downtext a {
+        font-size: 14px;
+    }
+}

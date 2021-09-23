@@ -1,0 +1,369 @@
+.yrheading {
+    font-family: 'Source Serif Pro Bold', 'Source Serif Pro Regular', 'Source Serif Pro', sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    font-size: 40px;
+    text-align: center;
+}
+
+.date {
+    font-family: 'Roboto Condensed', 'Roboto', sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 10px;
+    color: #FFFFFF;
+    text-align: center;
+}
+
+.button {
+    font-family: 'Source Serif Pro', sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 14px;
+    color: #FFFFFF;
+    text-align: center;
+}
+
+.mk {
+    font-family: 'Source Serif Pro Bold', 'Source Serif Pro Regular', 'Source Serif Pro', sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    font-size: 14px;
+    color: #FFFFFF;
+    text-align: center;
+}
+
+.part {
+    font-family: 'Source Serif Pro Bold', 'Source Serif Pro Regular', 'Source Serif Pro', sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    font-size: 16px;
+    color: #FFFFFF;
+    text-align: center;
+}
+
+.link {
+    font-family: 'Source Serif Pro', sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 12px;
+    color: #FFFFFF;
+    text-align: center;
+}
+
+.links {
+    font-family: 'Source Serif Pro Bold', 'Source Serif Pro Regular', 'Source Serif Pro', sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    font-size: 12px;
+    color: #FFFFFF;
+    text-align: center;
+}
+
+.number {
+    font-family: 'Roboto Condensed Bold', 'Roboto Condensed', 'Roboto', sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    font-size: 20px;
+    color: #FFFFFF;
+    text-align: center;
+}
+
+.wireframemk {
+    font-family: 'Source Serif Pro Bold', 'Source Serif Pro Regular', 'Source Serif Pro', sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    font-size: 8px;
+    color: #FFFFFF;
+    text-align: center;
+}
+
+.wireframelink {
+    font-family: 'Source Serif Pro Bold', 'Source Serif Pro Regular', 'Source Serif Pro', sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    font-size: 7px;
+    color: #FFFFFF;
+    text-align: center;
+}
+
+.wireframeyrheading {
+    font-family: 'Source Serif Pro Bold', 'Source Serif Pro Regular', 'Source Serif Pro', sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    font-size: 18px;
+    text-align: center;
+}
+
+.wireframedate {
+    font-family: 'Roboto Condensed', 'Roboto', sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 8px;
+    color: #FFFFFF;
+    text-align: center;
+}
+
+.wireframebutton {
+    font-family: 'Source Serif Pro', sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 8px;
+    color: #FFFFFF;
+    text-align: center;
+}
+
+.wireframeno {
+    font-family: 'Roboto Condensed Bold', 'Roboto Condensed', 'Roboto', sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    font-size: 10px;
+    color: #FFFFFF;
+    text-align: center;
+}
+
+.wireframecharacter {
+    font-family: 'Source Serif Pro Bold', 'Source Serif Pro Regular', 'Source Serif Pro', sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    font-size: 7px;
+    color: #FFFFFF;
+    text-align: center;
+}
+
+.wireframetext {
+    font-family: 'Roboto Condensed', 'Roboto', sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 6px;
+    color: #FFFFFF;
+    text-align: center;
+}
+
+.wireframemmk {
+    font-family: 'Source Serif Pro Bold', 'Source Serif Pro Regular', 'Source Serif Pro', sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    font-size: 8px;
+    color: #FFFFFF;
+    text-align: center;
+}
+
+.wireframemlink {
+    font-family: 'Source Serif Pro Bold', 'Source Serif Pro Regular', 'Source Serif Pro', sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    font-size: 7px;
+    color: #FFFFFF;
+}
+
+.wireframeyrheading {
+    font-family: 'Source Serif Pro Bold', 'Source Serif Pro Regular', 'Source Serif Pro', sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    font-size: 14px;
+    text-align: center;
+}
+
+.wireframemdate {
+    font-family: 'Roboto Condensed', 'Roboto', sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 6px;
+    color: #FFFFFF;
+    text-align: center;
+}
+
+.wireframemlink {
+    font-family: 'Source Serif Pro Bold', 'Source Serif Pro Regular', 'Source Serif Pro', sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    font-size: 7px;
+    color: #FFFFFF;
+    text-align: center;
+}
+
+.myrheading {
+    font-family: 'Source Serif Pro Bold', 'Source Serif Pro Regular', 'Source Serif Pro', sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    font-size: 24px;
+    text-align: center;
+}
+
+.characternamelink {
+    font-family: 'Source Serif Pro Bold', 'Source Serif Pro Regular', 'Source Serif Pro', sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    font-size: 14px;
+    color: #FFFFFF;
+    text-align: center;
+}
+
+.charactername {
+    font-family: 'Source Serif Pro Bold', 'Source Serif Pro Regular', 'Source Serif Pro', sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    font-size: 48px;
+    color: #FFFFFF;
+    text-align: center;
+}
+
+.characterdec01 {
+    font-family: 'Source Serif Pro Bold', 'Source Serif Pro Regular', 'Source Serif Pro', sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    font-size: 16px;
+    color: #FFFFFF;
+    text-align: center;
+}
+
+.characterdec02 {
+    font-family: 'Roboto Condensed', 'Roboto', sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    color: #FFFFFF;
+    font-size: 13px;
+    text-align: center;
+}
+
+.mobcharactername {
+    font-family: 'Source Serif Pro Bold', 'Source Serif Pro Regular', 'Source Serif Pro', sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    font-size: 28px;
+    color: #FFFFFF;
+    text-align: center;
+}
+
+.mobcharacterdec01 {
+    font-family: 'Source Serif Pro', sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 14px;
+    color: #FFFFFF;
+    text-align: center;
+}
+
+.mobcharacterdec02 {
+    font-family: 'Roboto Condensed', 'Roboto', sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 12px;
+    color: #FFFFFF;
+    text-align: center;
+}
+
+.videotext {
+    font-family: 'Roboto Condensed', 'Roboto', sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 13px;
+    color: #FFFFFF;
+    text-align: center;
+}
+
+@media screen and (max-width: 786px) {
+    .yrheading {
+        font-size: 20px;
+    }
+    .date {
+        font-size: 8px;
+    }
+    .button {
+        font-size: 8px;
+    }
+    .mk {
+        font-size: 10px;
+    }
+    .part {
+        font-size: 8px;
+    }
+    .link {
+        font-size: 8px;
+    }
+    .links {
+        font-size: 8px;
+    }
+    .number {
+        font-size: 10px;
+    }
+    .heading1 {
+        font-size: 25px;
+    }
+    .heading2 {
+        font-size: 20px;
+    }
+    .desc {
+        font-size: 10px;
+    }
+    .wireframemk {
+        font-size: 5px;
+    }
+    .wireframelink {
+        font-size: 4px;
+    }
+    .wireframeyrheading {
+        font-size: 12px;
+    }
+    .wireframedate {
+        font-size: 7px;
+    }
+    .wireframebutton {
+        font-size: 6px;
+    }
+    .wireframecharacter {
+        font-size: 5px;
+    }
+    .wireframetext {
+        font-size: 4px;
+    }
+    .wireframemmk {
+        font-size: 6px;
+    }
+    .wireframemlink {
+        font-size: 5px;
+    }
+    .wireframeyrheading {
+        font-size: 12px;
+    }
+    .wireframemdate {
+        font-size: 5px;
+    }
+    .wireframemlink {
+        font-size: 5px;
+    }
+    .wireframedes01 {
+        font-size: 10px;
+    }
+    .wireframedes02 {
+        font-size: 7px;
+    }
+    .myrheading {
+        font-size: 16px;
+    }
+    .characternamelink {
+        font-size: 10px;
+    }
+    .charactername {
+        font-size: 28px;
+    }
+    .characterdec01 {
+        font-size: 10px;
+    }
+    .characterdec02 {
+        font-size: 8px;
+    }
+    .mobcharactername {
+        font-size: 14px;
+    }
+    .mobcharacterdec01 {
+        font-size: 6px;
+    }
+    .mobcharacterdec02 {
+        font-size: 7px;
+    }
+    .videotext {
+        font-size: 9px;
+    }
+}

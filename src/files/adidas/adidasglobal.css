@@ -1,0 +1,228 @@
+.adidastext {
+    font-family: 'Montserrat Bold', 'Montserrat Regular', 'Montserrat', sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    font-size: 28px;
+    color: #000000;
+}
+
+.headlink {
+    font-family: 'Poppins Bold', 'Poppins Regular', 'Poppins', sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    color: #000000;
+    font-size: 13px;
+}
+
+.numberlink {
+    font-family: 'Montserrat Alternates SemiBold', 'Montserrat Alternates Regular', 'Montserrat Alternates', sans-serif;
+    font-weight: 600;
+    font-style: normal;
+    font-size: 28px;
+    color: #FFFFFF;
+    text-align: center;
+}
+
+.headline {
+    font-family: 'Montserrat Alternates Bold', 'Montserrat Alternates Regular', 'Montserrat Alternates', sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    font-size: 20px;
+    color: #FFFFFF;
+    text-align: center;
+}
+
+.time {
+    display: flex;
+    font-size: 6px;
+    color: #FFFFFF;
+}
+
+.homeheading {
+    font-family: 'Poppins Bold', 'Poppins Regular', 'Poppins', sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    font-size: 10px;
+    color: #000000;
+    text-align: center;
+}
+
+.numberyellow {
+    font-family: 'Playfair Display SC Bold', 'Playfair Display SC Regular', 'Playfair Display SC', sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    font-size: 200px;
+    color: #FFFF00;
+}
+
+.numberred {
+    font-family: 'Playfair Display SC Bold', 'Playfair Display SC Regular', 'Playfair Display SC', sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    font-size: 200px;
+    color: #D9001B;
+}
+
+.housename {
+    font-family: 'Poppins Bold', 'Poppins Regular', 'Poppins', sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    font-size: 36px;
+    color: #FFFFFF;
+}
+
+.shadowheading {
+    font-family: 'Poppins Bold', 'Poppins Regular', 'Poppins', sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    font-size: 100px;
+    color: #FFFFFF;
+}
+
+.gotpara {
+    font-family: 'Poppins Medium', 'Poppins Regular', 'Poppins', sans-serif;
+    font-weight: 500;
+    font-style: normal;
+    font-size: 8px;
+    color: #000000;
+    text-align: center;
+}
+
+.gotheadline {
+    font-family: 'Poppins Bold', 'Poppins Regular', 'Poppins', sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    font-size: 12px;
+    color: #000000;
+    text-align: center;
+}
+
+.button {
+    font-family: 'Poppins', sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 10px;
+    color: #FFFFFF;
+    text-align: center;
+}
+
+.rs {
+    font-family: 'Poppins', sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 10px;
+    color: #000000;
+    text-align: center;
+}
+
+.sizeno {
+    font-size: 6px;
+    color: #FFFFFF;
+}
+
+.adidas {
+    font-family: 'Poppins SemiBold', 'Poppins Regular', 'Poppins', sans-serif;
+    font-weight: 600;
+    font-style: normal;
+    font-size: 10px;
+    color: #FFFFFF;
+    text-align: center;
+}
+
+.buynow {
+    font-family: 'Poppins Medium', 'Poppins Regular', 'Poppins', sans-serif;
+    font-weight: 500;
+    font-style: normal;
+    font-size: 7px;
+    color: #FFFFFF;
+    text-align: center;
+}
+
+.circleno {
+    font-family: 'Montserrat Alternates Bold', 'Montserrat Alternates Regular', 'Montserrat Alternates', sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    font-size: 30px;
+    text-align: left;
+}
+
+.size {
+    font-family: 'Poppins SemiBold', 'Poppins Regular', 'Poppins', sans-serif;
+    font-weight: 600;
+    font-style: normal;
+    font-size: 6px;
+    color: #FFFFFF;
+    text-align: left;
+}
+
+.color {
+    font-family: 'Poppins SemiBold', 'Poppins Regular', 'Poppins', sans-serif;
+    font-weight: 600;
+    font-style: normal;
+    font-size: 6px;
+    color: #FFFFFF;
+    text-align: left;
+}
+
+@media screen and (max-width: 768px) {
+    .adidastext {
+        font-size: 12px;
+    }
+    .headlink {
+        font-size: 10px;
+    }
+    .numberlink {
+        font-size: 14px;
+    }
+    .headline {
+        font-size: 14px;
+    }
+    .time {
+        font-size: 4px;
+    }
+    .homeheading {
+        font-size: 8px;
+    }
+    .numberyellow {
+        font-size: 150px;
+    }
+    .numberred {
+        font-size: 150px;
+    }
+    .housename {
+        font-size: 28px;
+    }
+    .gotpara {
+        font-size: 6px;
+    }
+    .gotheadline {
+        font-size: 8px;
+    }
+    .button {
+        font-size: 8px;
+    }
+    .rs {
+        font-size: 8px;
+    }
+    .sizeno {
+        font-size: 6px;
+    }
+    .adidas {
+        font-size: 8px;
+    }
+    .buynow {
+        font-size: 6px;
+    }
+    .circleno {
+        font-size: 24px;
+    }
+    .size {
+        font-size: 5px;
+    }
+    .color {
+        font-size: 5px;
+    }
+    .shadowheading {
+        font-size: 60px;
+    }
+}

@@ -1,0 +1,715 @@
+.headlink {
+    display: flex;
+    font-family: 'Montserrat SemiBold', 'Montserrat Regular', 'Montserrat', sans-serif;
+    font-weight: 600;
+    font-style: normal;
+    font-size: 12px;
+    color: #FFFFFF;
+    text-align: center;
+}
+
+.aboutproject {
+    display: flex;
+    font-family: 'Montserrat Medium', 'Montserrat Regular', 'Montserrat', sans-serif;
+    font-weight: 500;
+    font-style: normal;
+    color: #7F7F7F;
+    text-align: center;
+    font-size: 14px;
+}
+
+.wireframegot {
+    display: flex;
+    font-family: 'Arial Bold', 'Arial', sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    font-size: 12px;
+    color: #FFFFFF;
+    text-align: center;
+}
+
+.wireframenolink {
+    display: flex;
+    font-family: 'Montserrat Medium', 'Montserrat Regular', 'Montserrat', sans-serif;
+    font-weight: 500;
+    font-style: normal;
+    font-size: 9px;
+    color: #FFFFFF;
+    text-align: center;
+}
+
+.wireframelight {
+    display: flex;
+    font-family: 'Arial Bold', 'Arial', sans-serif;
+    font-style: normal;
+    font-size: 6px;
+    color: #AAAAAA;
+    text-align: center;
+}
+
+.wireframelink {
+    font-family: 'Arial Bold', 'Arial', sans-serif;
+    font-style: normal;
+    display: flex;
+    font-size: 8px;
+    color: #FFFFFF;
+    text-align: center;
+}
+
+.wireframetitle {
+    display: flex;
+    font-family: 'Arial Bold', 'Arial', sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-style: normal;
+    font-size: 10px;
+    color: #FFFFFF;
+    text-align: center;
+}
+
+.wireframesubmenu {
+    font-family: 'Arial Bold', 'Arial', sans-serif;
+    font-style: normal;
+    display: flex;
+    font-size: 8px;
+    color: #D4D4D4;
+    text-align: center;
+}
+
+.wireframesubmenu1 {
+    font-family: 'Arial Bold', 'Arial', sans-serif;
+    font-style: normal;
+    display: flex;
+    font-size: 8px;
+    color: #FFFFFF;
+    text-align: center;
+}
+
+.wireframename {
+    display: flex;
+    font-family: 'Arial Bold', 'Arial', sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    font-size: 8px;
+    color: #FFFFFF;
+    text-align: center;
+}
+
+.wireframedesc {
+    font-family: 'Arial Bold', 'Arial', sans-serif;
+    font-style: normal;
+    display: flex;
+    font-size: 6px;
+    color: #FFFFFF;
+    text-align: center;
+}
+
+.wireframeword {
+    font-family: 'Arial Bold', 'Arial', sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    font-size: 6px;
+    color: #FFFFFF;
+    text-align: center;
+}
+
+.wireframehouseno {
+    font-family: 'Arial Bold', 'Arial', sans-serif;
+    font-style: normal;
+    display: flex;
+    font-size: 6px;
+    color: #FFFFFF;
+    text-align: center;
+}
+
+.wireframehousename {
+    display: flex;
+    font-family: 'Arial Bold', 'Arial', sans-serif;
+    font-style: normal;
+    font-size: 7px;
+    color: #FFFFFF;
+    text-align: center;
+}
+
+.wireframemotto {
+    display: flex;
+    font-family: 'Arial Italic', 'Arial', sans-serif;
+    font-weight: 400;
+    font-style: italic;
+    font-size: 8px;
+    color: #FFFFFF;
+    text-align: center;
+}
+
+.wireframemobgot {
+    display: flex;
+    font-family: 'Arial Bold', 'Arial', sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    font-size: 10px;
+    color: #FFFFFF;
+    text-align: center;
+}
+
+.wireframemoblink {
+    display: flex;
+    font-family: 'Arial Bold', 'Arial', sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    font-size: 6px;
+    color: #FFFFFF;
+    text-align: center;
+}
+
+.wireframetitle {
+    display: flex;
+    font-family: 'Arial Bold', 'Arial', sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    font-size: 10px;
+    color: #FFFFFF;
+    text-align: center;
+}
+
+.wireframemotto {
+    display: flex;
+    font-family: 'Arial Italic', 'Arial', sans-serif;
+    font-weight: 400;
+    font-style: italic;
+    font-size: 8px;
+    color: #FFFFFF;
+    text-align: center;
+}
+
+.wireframewords {
+    display: flex;
+    font-family: 'Arial Bold', 'Arial', sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    font-size: 8px;
+    color: #FFFFFF;
+    text-align: center;
+}
+
+.headline {
+    display: flex;
+    font-family: 'Cinzel', sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 16px;
+    color: #FFFFFF;
+    text-align: center;
+}
+
+.got {
+    display: flex;
+    font-family: 'Cinzel Bold', 'Cinzel Regular', 'Cinzel', sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    font-size: 20px;
+    color: #FFFFFF;
+    text-align: center;
+}
+
+.numberlink {
+    display: flex;
+    font-family: 'Montserrat Medium', 'Montserrat Regular', 'Montserrat', sans-serif;
+    font-weight: 500;
+    font-style: normal;
+    font-size: 18px;
+    color: #FFFFFF;
+    text-align: center;
+}
+
+.link {
+    display: flex;
+    font-family: 'Montserrat SemiBold', 'Montserrat Regular', 'Montserrat', sans-serif;
+    font-weight: 600;
+    font-style: normal;
+    font-size: 14px;
+    color: #FFFFFF;
+    text-align: center;
+}
+
+.episode {
+    display: flex;
+    font-family: 'Cinzel', sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 20px;
+    color: #FFFFFF;
+    text-align: center;
+}
+
+.seaepi {
+    display: flex;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 8px;
+    color: #D4D4D4;
+    text-align: center;
+}
+
+.gotheadline {
+    display: flex;
+    font-family: 'Cinzel Bold', 'Cinzel Regular', 'Cinzel', sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    font-size: 28px;
+    color: #FFFFFF;
+    text-align: center;
+}
+
+.expbutton {
+    display: flex;
+    font-family: 'Montserrat Medium', 'Montserrat Regular', 'Montserrat', sans-serif;
+    font-weight: 500;
+    font-style: normal;
+    font-size: 12px;
+    color: #FFFFFF;
+    text-align: center;
+}
+
+.season {
+    display: flex;
+    font-family: 'Montserrat Light', 'Montserrat Regular', 'Montserrat', sans-serif;
+    font-weight: 300;
+    font-style: normal;
+    font-size: 12px;
+    color: #AAAAAA;
+    text-align: center;
+}
+
+.gotshowdesc {
+    display: flex;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 10px;
+    color: #D4D4D4;
+    text-align: center;
+}
+
+.episodeno {
+    display: flex;
+    font-family: 'Montserrat Light', 'Montserrat Regular', 'Montserrat', sans-serif;
+    font-weight: 300;
+    font-style: normal;
+    font-size: 18px;
+    color: #D4D4D4;
+    text-align: center;
+}
+
+.episodetitle {
+    display: flex;
+    font-family: 'Cinzel Bold', 'Cinzel Regular', 'Cinzel', sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    font-size: 16px;
+    color: #FFFFFF;
+    text-align: center;
+}
+
+.episodesubtitle1 {
+    display: flex;
+    font-family: 'Cinzel', sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 16px;
+    color: #FFFFFF;
+    text-align: center;
+}
+
+.episodesubtitle {
+    display: flex;
+    font-family: 'Cinzel', sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 14px;
+    color: #D4D4D4;
+    text-align: center;
+}
+
+.word {
+    display: flex;
+    font-family: 'Montserrat Medium', 'Montserrat Regular', 'Montserrat', sans-serif;
+    font-weight: 500;
+    font-style: normal;
+    font-size: 16px;
+    color: #FFFFFF;
+    text-align: center;
+}
+
+.word1 {
+    display: flex;
+    font-family: 'Montserrat Medium', 'Montserrat Regular', 'Montserrat', sans-serif;
+    font-weight: 500;
+    font-style: normal;
+    font-size: 14px;
+    color: #FFFFFF;
+    text-align: center;
+}
+
+.houseword {
+    display: flex;
+    font-family: 'Montserrat Medium', 'Montserrat Regular', 'Montserrat', sans-serif;
+    font-weight: 500;
+    font-style: normal;
+    font-size: 16px;
+    color: #FFFFFF;
+    text-align: center;
+}
+
+.wordname {
+    display: flex;
+    font-family: 'Montserrat Light', 'Montserrat Regular', 'Montserrat', sans-serif;
+    font-weight: 300;
+    font-style: normal;
+    font-size: 10px;
+    color: #FFFFFF;
+    text-align: right;
+}
+
+.desc {
+    display: flex;
+    font-family: 'Montserrat Medium', 'Montserrat Regular', 'Montserrat', sans-serif;
+    font-weight: 500;
+    font-style: normal;
+    font-size: 14px;
+    color: #FFFFFF;
+    text-align: center;
+}
+
+.namess {
+    display: flex;
+    font-family: 'Cinzel Bold', 'Cinzel Regular', 'Cinzel', sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    font-size: 14px;
+    color: #FFFFFF;
+    text-align: center;
+}
+
+.housename {
+    display: flex;
+    font-family: 'Cinzel', sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 13px;
+    color: #FFFFFF;
+    text-align: center;
+}
+
+.housesno {
+    display: flex;
+    font-family: 'Cinzel', sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 13px;
+    color: #FFFFFF;
+    text-align: center;
+}
+
+.housemottos {
+    display: flex;
+    font-family: 'Montserrat SemiBold Italic', 'Montserrat Regular', 'Montserrat', sans-serif;
+    font-weight: 600;
+    font-style: italic;
+    font-size: 14px;
+    color: #FFFFFF;
+    text-align: center;
+}
+
+.housenobold {
+    display: flex;
+    font-family: 'Montserrat Bold', 'Montserrat Regular', 'Montserrat', sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    font-size: 28px;
+    color: #FFFFFF;
+    text-align: center;
+}
+
+.mobgot {
+    display: flex;
+    font-family: 'Cinzel Bold', 'Cinzel Regular', 'Cinzel', sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    font-size: 14px;
+    color: #FFFFFF;
+    text-align: center;
+}
+
+.moblink {
+    display: flex;
+    font-family: 'Montserrat Medium', 'Montserrat Regular', 'Montserrat', sans-serif;
+    font-weight: 500;
+    font-style: normal;
+    font-size: 8px;
+    color: #FFFFFF;
+    text-align: center;
+}
+
+.mobname {
+    display: flex;
+    font-family: 'Cinzel Bold', 'Cinzel Regular', 'Cinzel', sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    font-size: 18px;
+    color: #FFFFFF;
+    text-align: center;
+}
+
+.mobhousemottos {
+    display: flex;
+    font-family: 'Montserrat SemiBold Italic', 'Montserrat Regular', 'Montserrat', sans-serif;
+    font-weight: 600;
+    font-style: italic;
+    font-size: 14px;
+    color: #FFFFFF;
+    text-align: center;
+}
+
+.mobdesc {
+    display: flex;
+    font-family: 'Montserrat Medium', 'Montserrat Regular', 'Montserrat', sans-serif;
+    font-weight: 500;
+    font-style: normal;
+    font-size: 10px;
+    color: #FFFFFF;
+    text-align: center;
+}
+
+.mobsectext {
+    display: flex;
+    font-family: 'Montserrat Medium', 'Montserrat Regular', 'Montserrat', sans-serif;
+    font-weight: 500;
+    font-style: normal;
+    font-size: 12px;
+    color: #FFFFFF;
+    text-align: center;
+}
+
+.characterlink {
+    display: flex;
+    font-family: 'Montserrat SemiBold', 'Montserrat Regular', 'Montserrat', sans-serif;
+    font-weight: 600;
+    font-style: normal;
+    font-size: 12px;
+    color: #FFFFFF;
+    text-align: center;
+}
+
+.mobcharacterword {
+    display: flex;
+    font-family: 'Montserrat Medium', 'Montserrat Regular', 'Montserrat', sans-serif;
+    font-weight: 500;
+    font-style: normal;
+    font-size: 12px;
+    color: #FFFFFF;
+    text-align: center;
+}
+
+.gotmapdesc {
+    display: flex;
+    font-family: 'Montserrat Thin', 'Montserrat Regular', 'Montserrat', sans-serif;
+    font-weight: 250;
+    font-style: normal;
+    font-size: 7px;
+    color: #FFFFFF;
+    text-align: center;
+}
+
+.thanknote {
+    display: flex;
+    font-family: 'Cinzel', sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 28px;
+    color: #FFFFFF;
+    text-align: center;
+}
+
+@media screen and (max-width: 786px) {
+    .headhob {
+        font-size: 18px;
+    }
+    .headlink {
+        font-size: 8px;
+    }
+    .headseason {
+        font-size: 10px;
+    }
+    .gotheadline {
+        font-size: 18px;
+    }
+    .headdec {
+        font-size: 10px;
+    }
+    .aboutproject {
+        font-size: 10px;
+    }
+    .aboutshow {
+        font-size: 10px;
+    }
+    .wireframegot {
+        font-size: 7px;
+    }
+    .wireframenolink {
+        font-size: 5px;
+    }
+    .wireframelight {
+        font-size: 4px;
+    }
+    .wireframelink {
+        font-size: 6px;
+    }
+    .wireframeheadline {
+        font-size: 12px;
+    }
+    .wireframetitle {
+        font-size: 8px;
+    }
+    .wireframesubmenu {
+        font-size: 5px;
+    }
+    .wireframesubmenu1 {
+        font-size: 5px;
+    }
+    .wireframename {
+        font-size: 6px;
+    }
+    .wireframedesc {
+        font-size: 4px;
+    }
+    .wireframeword {
+        font-size: 5px;
+    }
+    .wireframehouseno {
+        font-size: 3px;
+    }
+    .wireframehousename {
+        font-size: 5px;
+    }
+    .wireframemotto {
+        font-size: 6px;
+    }
+    .wireframemobgot {
+        font-size: 8px;
+    }
+    .wireframemoblink {
+        font-size: 4px;
+    }
+    .wireframetitle {
+        font-size: 8px;
+    }
+    .wireframemotto {
+        font-size: 6px;
+    }
+    .wireframewords {
+        font-size: 6px;
+    }
+    .headline {
+        font-size: 16px;
+    }
+    .got {
+        font-size: 14px;
+    }
+    .numberlink {
+        font-size: 8px;
+    }
+    .season {
+        font-size: 6px;
+    }
+    .link {
+        font-size: 8px;
+    }
+    .episode {
+        font-size: 12px;
+    }
+    .seaepi {
+        font-size: 8px;
+    }
+    .gotheadline {
+        font-size: 18px;
+    }
+    .expbutton {
+        font-size: 6px;
+    }
+    .gotshowdesc {
+        font-size: 5px;
+    }
+    .episodeno {
+        font-size: 10px;
+    }
+    .episodetitle {
+        font-size: 8px;
+    }
+    .episodesubtitle1 {
+        font-size: 6px;
+    }
+    .episodesubtitle {
+        font-size: 8px;
+    }
+    .word {
+        font-size: 10px;
+    }
+    .word1 {
+        font-size: 7px;
+    }
+    .houseword {
+        font-size: 6px;
+    }
+    .wordname {
+        font-size: 6px;
+    }
+    .desc {
+        font-size: 8px;
+    }
+    .namess {
+        font-size: 8px;
+    }
+    .housename {
+        font-size: 10px;
+    }
+    .housesno {
+        font-size: 10px;
+    }
+    .housemottos {
+        font-size: 9px;
+    }
+    .housenobold {
+        font-size: 14px;
+    }
+    .mobgot {
+        font-size: 8px;
+    }
+    .moblink {
+        font-size: 5px;
+    }
+    .mobname {
+        font-size: 12px;
+    }
+    .mobhousemottos {
+        font-size: 8px;
+    }
+    .mobdesc {
+        font-size: 7px;
+    }
+    .mobsectext {
+        font-size: 8px;
+    }
+    .characterlink {
+        font-size: 8px;
+    }
+    .mobcharacterword {
+        font-size: 8px;
+    }
+    .gotmapdesc {
+        font-size: 7px;
+    }
+    .thanknote {
+        font-size: 20px;
+    }
+}
